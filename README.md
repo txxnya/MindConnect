@@ -49,14 +49,6 @@ Built with a modern TypeScript stack using React, Express, PostgreSQL, and Prism
 
 ## 📂 Project Structure
 
-```
-MindConnect
-├── frontend/
-├── backend/
-├── shared/
-└── README.md
-```
-
 The project follows a monorepo architecture with shared TypeScript types between the frontend and backend.
 
 ---
@@ -121,13 +113,23 @@ Core entities include:
 
 ## 📸 Screenshots
 
-> Add screenshots of:
->
-> - Login Page
-> - Dashboard
-> - Appointment Booking
-> - Community Page
-> - Admin Panel
+
+> - <img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/8b1951ab-9233-4017-a828-b31fa0bea180" />
+
+> - <img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/bb794a77-c930-47a5-80ee-5870b262b15e" />
+
+> - <img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/a58b4007-4ddd-4909-95f4-7834e5a26eb9" />
+
+> - <img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/2f4e7c28-c913-4e52-b50d-fe70518661d6" />
+
+>  - <img width="1918" height="871" alt="image" src="https://github.com/user-attachments/assets/57ed01b1-9c0f-498b-880c-a4e09aca3e4f" />
+
+> - <img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/bed43066-1b54-451a-87bc-584465a070f3" />
+
+> - <img width="1916" height="870" alt="image" src="https://github.com/user-attachments/assets/2d098f2c-17a1-4b30-b73b-c1f33f218efc" />
+
+> - <img width="1908" height="870" alt="image" src="https://github.com/user-attachments/assets/4013f789-68dc-407a-97c3-c9e07b3136f3" />
+
 
 ---
 
@@ -161,8 +163,8 @@ This project helped me gain hands-on experience with:
 
 **Aayush Pandey**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/NOT-Aayush
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/aayush-pandey-901854289/
 
 Portfolio: https://aayushpandey.in
