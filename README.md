@@ -161,10 +161,9 @@ This project helped me gain hands-on experience with:
 
 ## Author
 
-**Aayush Pandey**
+**Tanya Sahu**
 
-GitHub: https://github.com/NOT-Aayush
+GitHub: https://github.com/txxnya
 
-LinkedIn: https://www.linkedin.com/in/aayush-pandey-901854289/
+LinkedIn: https://www.linkedin.com/in/tanya-sahu-199225282/?isSelfProfile=true
 
-Portfolio: https://aayushpandey.in
